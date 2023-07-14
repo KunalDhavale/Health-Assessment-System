@@ -22,7 +22,7 @@
 
 ## NOTE
 
-> You can access the website live at: https://health-assessment-system.onrender.com <br>
+> You can access the website live at: https://health-assessment-system-62pz.onrender.com <br>
 Python version 3.10.9 was used for the whole project.<br>
 
 
